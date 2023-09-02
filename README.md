@@ -2,4 +2,4 @@
 Climate app using javaScript
 
 
-website Link: https://amlan05-weather.netlify.app/
+website Link: https://amlanclimate05.netlify.app/
